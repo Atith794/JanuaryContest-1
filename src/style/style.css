@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+
+
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.headingdiv{
+    position: absolute;
+    width: 489px;
+    height: 473px;   
+    top: 8rem;
+    left: 32rem;
+    border-radius: 30px;
+    box-shadow: -30px 20px 100px 10px #FB184E78;
+
+}
+
+
+.heading{ 
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #2B2B2B;
+    position:relative;
+    top:4rem;
+}
+
+.input1{
+    position:relative;
+    width: 290px;
+    height: 40px;
+    top: 100px;
+    left: 100px;
+    border: 2px solid #2B2B2B;
+}
+
+.input1::placeholder{
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: #2B2B2B;
+    position:relative;
+    top:0.2rem;
+    left: 0.5rem;
+}
+
+.input2{
+    position:relative;
+    width: 290px;
+    height: 40px;
+    top: 120px;
+    left: 100px;
+    border: 2px solid #2B2B2B;
+}
+
+.input2::placeholder{
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    color: #2B2B2B;
+    position:relative;
+    top:0.3rem;
+    left: 0.5rem;
+}
+
+
+.buttonpl{
+    position: relative;
+    top:10rem;
+    left:6.3rem;
+    width: 61px;
+    height: 61px;
+    background: #2B2B2B;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:white;
+}
+
+.buttonm{
+    position: relative;
+    top:10rem;
+    left:7.3rem;
+    width: 61px;
+    height: 61px;
+    background: #2B2B2B;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:white;
+}
+
+.buttonp{
+    position: relative;
+    top:10rem;
+    left:8.4rem;
+    width: 61px;
+    height: 61px;
+    background: #2B2B2B;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:white;
+}
+
+.buttond{
+    position: relative;
+    top:10rem;
+    left:9.5rem;
+    width: 61px;
+    height: 61px;
+    background: #2B2B2B;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:white;
+    
+}
+
+
+.successMessage{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0057FF;
+    position: relative;
+    top:12rem;
+}
+
+
+
+.result{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#2B2B2B;
+    position: relative;
+    top:13rem;
+}
+
+.errorMessage{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#FB184E;
+    position: relative;
+    top:12rem;
+}
+
+.errresult1{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0057FF;
+    position: relative;
+    top:12rem;
+}
+
+.errresult2{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #0057FF;
+    position: relative;
+    top:13rem;
+}
